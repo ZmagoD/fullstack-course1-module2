@@ -1,4 +1,4 @@
-some_var = "false"
+I guess nothing matched... But why?some_var = "false"
 another_var = "nil"
 
 case
@@ -9,7 +9,7 @@ case
   when some_var == false
     puts "Looks like this on should execute"
   else
-    puts "I guess nothing matched... But why?"
+    puts "I guess nothing maches... But Why?"
 end
 
 
